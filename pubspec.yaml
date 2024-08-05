@@ -1,7 +1,7 @@
 name: string_upper_lower
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/asadbekxomidov/string_upper_lower
 
 environment:
   sdk: ^3.4.4
